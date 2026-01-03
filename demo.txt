@@ -1,1 +1,2 @@
 This is my Git file.
+It is an updated content
